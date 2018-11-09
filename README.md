@@ -1,7 +1,7 @@
 # Model in Azure AI Gallery
 
 ## Intro
-This repository contains code which demonstrates how to deploy and use an Inception model in Azure Machine Learning. Try it on Azure Notebooks Today for truly end-to-end experience.
+This repository contains code which demonstrates how to deploy and use an Inception model in Azure Machine Learning. Try it today for truly end-to-end experience.
 
 ## How to Use
 1. Use [![Azure Notebooks](https://notebooks.azure.com/launch.png)](https://notebooks.azure.com/import/gh/gogowings/Gallery_sample1) to [import the sample notebooks](https://notebooks.azure.com/import/gh/gogowings/Gallery_sample1) into Azure Notebooks.
